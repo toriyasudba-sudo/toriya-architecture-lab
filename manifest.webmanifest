@@ -1,0 +1,44 @@
+{
+  "id": "./",
+  "name": "TORIYA ARCHITECTURE LAB",
+  "short_name": "Architecture Lab",
+  "description": "Бесплатный тренажёр для самозанятых, ИП и начинающих предпринимателей: от бизнес-задачи до архитектурного паспорта проекта.",
+  "lang": "ru-RU",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#F6F2E9",
+  "theme_color": "#152A3F",
+  "categories": [
+    "education",
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
